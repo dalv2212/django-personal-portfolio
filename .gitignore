@@ -4,3 +4,7 @@
 __pycache__/
 local_settings.py
 /static/
+folder.
+.idea/
+/redis.conf/
+/.venv/
